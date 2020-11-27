@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+    <default>
+        <payment>
+                <otpsimple>
+                <active>0</active>
+                <mode>1</mode>
+                <title>Otp Simple</title>
+                <order_status>pending_payment</order_status>
+                <payment_action>true</payment_action>
+                <model>Iconocoders\OtpSimple\Model\OtpSimple</model>
+                <group>offline</group>
+                <log>0</log>
+                <debug>0</debug>
+                <allowspecific>0</allowspecific>
+            </otpsimple>
+            <!-- payment-config -->
+        </payment>
+    </default>
+</config>
