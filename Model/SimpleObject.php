@@ -64,7 +64,7 @@ class SimpleObject
             : $order->getShippingInclTax();
         $this->sourceStringArray[11] =  [$this->currency];
         $this->simpleLiveUpdate->setField("ORDER_SHIPPING", $shippingAmount);
-        $this->simpleLiveUpdate->setField("DISCOUNT", $order->getDiscountAmount()*-1 );
+        $this->simpleLiveUpdate->setField("DISCOUNT", $order->getDiscountAmount() );
         $this->sourceStringArray[10] =  [$shippingAmount];
 
         /** Payment site languge */

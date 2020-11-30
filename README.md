@@ -45,6 +45,11 @@ Ebben az esetben kérjünk nyiss egy új issue-t!
    fizetés sikeres volt-e. 
 
 ----------
+> **v.2.3.4:**
+>
+> - Privat repo (repman)
+> - Discount FIX
+>
 > **v.2.3.3:**
 >
 >> - **Fontos:** A 2.3.3 verziótól kezdődően jogos érdekek miatt (a modul lincszek megszegése, hibakezelések biztosítása)

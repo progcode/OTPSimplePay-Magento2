@@ -26,6 +26,11 @@ If you would like use this module in your project, you can do this free.
  - Order status is set by automatically depends on success or fail payment. 
 
 ----------
+> **v.2.3.4:**
+>
+> - Privat repo (repman)
+> - Discount FIX
+>
 > **v.2.3.3:**
 >
 > - Update credit card logos (MasterCard, Maestro, VISA)
