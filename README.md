@@ -171,3 +171,22 @@ Fejlesztés / Közreműködés
 Amennyiben fejlesztőként szeretnél csatlakozni a modul fejlesztéséhez, kérjük a develop branchet checkoutold ki, majd a fejlesztéseid visszavezetéséhez nyiss egy új pull-requestet!
 
 Amennyiben hibát találtál, vagy fejlesztési ötleted/igényed van, kérjük jelezd ezt új Issue formájában!
+
+
+{
+  "http-basic": {
+    "icodersdev.repo.repman.io": {
+      "username": "token",
+      "password": "3c17bb4d08be6eb84580b534a1e5c82e0de0907b34fa0acb26be7ff2135fc2bb"
+    }
+  }
+}
+
+{
+  "require": {,
+    "icodersdev/magento2-otp-simple-payment": "2.3.4"
+  },
+  "repositories": [
+    {"type": "composer", "url": "https://icodersdev.repo.repman.io"}
+  ]
+}
