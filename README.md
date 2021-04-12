@@ -7,7 +7,7 @@ OTP Simplepay Magento2
 
 #### Licensz-el kapcsolatos megjegyzés
 Amennyiben a modult a saját projektedben szeretnéd használni, továbbra is ingyenesen teheted meg, de megköszönjük, ha támogatod munkánkat
-a modul megvásárlásával: https://shrt.hu/m2o a Patreonon!
+a modul megvásárlásával: https://shrt.hu/m2o a Patreonon: https://www.patreon.com/iconocoders
 
 Amennyiben a modult nem a saját projektedben kívánod felhasználni, hanem tovább értékesíted egy partnered számára, egy egyszeri licensz díjat kell fizetned. 
 
