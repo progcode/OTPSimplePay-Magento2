@@ -1,17 +1,23 @@
 OTP Simplepay Magento2
 =========================
 
-OTP Simple fizetési modul Magento2 webshop rendszerhez.
+#### OTP Simple fizetési modul Magento2 webshop rendszerhez.
 
 ![](https://assets-github.s3.amazonaws.com/repo/progcode/img/simplepay_horizontal_02.png)
 
 #### Licensz-el kapcsolatos megjegyzés
-Amennyiben a modult nem a saját projektedben kívánod felhasználni, hanem tovább értékesíted egy partnered számára, egy egyszeri licensz díjat kell fizetned. Ehhez kérjük vedd fel velünk a kapcsolatot: https://shrt.hu/support vagy kérünk
-vásárol meg a modult webshopunkból: https://shrt.hu/m2o
 Amennyiben a modult a saját projektedben szeretnéd használni, továbbra is ingyenesen teheted meg, de megköszönjük, ha támogatod munkánkat
-a modul megvásárlásával: https://shrt.hu/m2o
+a modul megvásárlásával: https://shrt.hu/m2o a Patreonon: https://www.patreon.com/iconocoders
 
-OTP Simple fizetési modul Magento2 webshop rendszerhez.
+Amennyiben a modult nem a saját projektedben kívánod felhasználni, hanem tovább értékesíted egy partnered számára, egy egyszeri licensz díjat kell fizetned. 
+
+Ehhez kérjük vedd fel velünk a kapcsolatot: https://shrt.hu/support vagy kérünk
+vásárol meg a modult webshopunkból: https://shrt.hu/m2o
+
+#### LICENSSZEL KAPCSOLATOS ÁLTALÁNOS INFORMÁCIÓK: https://iconocoders.com/license/
+
+#### Fork-al kapcsolatos információk
+A modul szabadon forkolható, azonban kérjük minden esetben jelezd felénk a forkolást a support@icoders.co email címen. A forkolt verzió kereskedelmi forgalomba NEM hozható, azt csak egyéni felhasználásra engedélyezzük!
 
 A modul megvásárolható: https://shrt.hu/m2o
 
@@ -45,11 +51,10 @@ Ebben az esetben kérjünk nyiss egy új issue-t!
    fizetés sikeres volt-e. 
 
 ----------
-> **v.2.3.4:**
+> **v.2.3.5:**
 >
-> - Privat repo (repman)
-> - Discount FIX
->
+> - Meghallgattuk az igényeket, a modult ÚJRA ingyenesen elérhetővé tesszük a Githubob és több támogatási formát alakítunk ki. Ezzel egyidejűleg megváltozik a modul licenszelése is.
+> 
 > **v.2.3.3:**
 >
 >> - **Fontos:** A 2.3.3 verziótól kezdődően jogos érdekek miatt (a modul lincszek megszegése, hibakezelések biztosítása)
@@ -171,22 +176,3 @@ Fejlesztés / Közreműködés
 Amennyiben fejlesztőként szeretnél csatlakozni a modul fejlesztéséhez, kérjük a develop branchet checkoutold ki, majd a fejlesztéseid visszavezetéséhez nyiss egy új pull-requestet!
 
 Amennyiben hibát találtál, vagy fejlesztési ötleted/igényed van, kérjük jelezd ezt új Issue formájában!
-
-
-{
-  "http-basic": {
-    "icodersdev.repo.repman.io": {
-      "username": "token",
-      "password": "3c17bb4d08be6eb84580b534a1e5c82e0de0907b34fa0acb26be7ff2135fc2bb"
-    }
-  }
-}
-
-{
-  "require": {,
-    "icodersdev/magento2-otp-simple-payment": "2.3.4"
-  },
-  "repositories": [
-    {"type": "composer", "url": "https://icodersdev.repo.repman.io"}
-  ]
-}

@@ -1,5 +1,5 @@
 {
-  "name": "icodersdev/magento2-otp-simple-payment",
+  "name": "iconocoders/magento2-otp-simple-payment",
   "description": "Magento2 OTP Simple Payment",
   "keywords": [
     "magento 2",
@@ -21,7 +21,7 @@
     "magento/module-backend": "*"
   },
   "type": "magento2-module",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "license": [
     "OSL-3.0"
   ],
