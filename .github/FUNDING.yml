@@ -1,5 +1,5 @@
 # These are supported funding model platforms
 
-github: # [progcode]
-patreon: # iconocoders
-custom: # ['https://paypal.me/webpositive', 'https://revolut.me/kovacsvwb']
+github: [progcode]
+patreon: iconocoders
+custom: ['https://paypal.me/webpositive', 'https://revolut.me/kovacsvwb']
