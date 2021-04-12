@@ -1,7 +1,7 @@
 OTP Simplepay Magento2
 =========================
 
-OTP Simple fizetési modul Magento2 webshop rendszerhez.
+#### OTP Simple fizetési modul Magento2 webshop rendszerhez.
 
 ![](https://assets-github.s3.amazonaws.com/repo/progcode/img/simplepay_horizontal_02.png)
 
@@ -14,9 +14,10 @@ Amennyiben a modult nem a saját projektedben kívánod felhasználni, hanem tov
 Ehhez kérjük vedd fel velünk a kapcsolatot: https://shrt.hu/support vagy kérünk
 vásárol meg a modult webshopunkból: https://shrt.hu/m2o
 
-LICENSSZEL KAPCSOLATOS ÁLTALANÁNOS INFORMÁCIÓK: https://iconocoders.com/license/
+#### LICENSSZEL KAPCSOLATOS ÁLTALÁNOS INFORMÁCIÓK: https://iconocoders.com/license/
 
-OTP Simple fizetési modul Magento2 webshop rendszerhez.
+#### Fork-al kapcsolatos információk
+A modul szabadon forkolható, azonban kérjük minden esetben jelezd felénk a forkolást a support@icoders.co email címen. A forkolt verzió kereskedelmi forgalomba NEM hozható, azt csak egyéni felhasználásra engedélyezzük!
 
 A modul megvásárolható: https://shrt.hu/m2o
 
